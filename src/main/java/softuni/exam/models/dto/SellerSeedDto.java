@@ -23,6 +23,7 @@ public class SellerSeedDto {
     private Rating rating;
     @XmlElement
     private String town;
+    private String test;
 
     public SellerSeedDto() {
     }
